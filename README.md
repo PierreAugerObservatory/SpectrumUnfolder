@@ -4,7 +4,7 @@ A C++ software tool for unfolding the Auger energy spectrum. It was developed wi
 ## **Credits**
 If you use SpectrumUnfolder for your research, please acknowledge it in your papers by citing the following references:
 
-* `S. Riggi et al., "On the unfolding of the inclined energy spectrum", Pierre Auger Internal GAP Note 2011-140 (2011)
+* `S. Riggi et al., "On the unfolding of the inclined energy spectrum", Pierre Auger Internal GAP Note 2011-140 (2011)`
 * `The Pierre Auger Collaboration, "Measurement of the cosmic ray spectrum above 4 × 10^18 eV using inclined events detected with the Pierre Auger Observatory", JCAP 08 (2015) 049`
 
 or consider including me (`S. Riggi, INAF - Osservatorio Astrofisico di Catania, Via S. Sofia 78, I-95123, Catania, Italy`)
