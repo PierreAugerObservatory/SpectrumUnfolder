@@ -2,16 +2,17 @@
 A C++ software tool for unfolding the Auger energy spectrum. It was developed within the Pierre Auger Observatory project and used in the Auger inclined spectrum paper. It is distributed for research use only under the GNU General Public License v3.0.
 
 ## **Credits**
-If you use CRSourceFitter for your research, please acknowledge it in your papers by citing the following references:
+If you use SpectrumUnfolder for your research, please acknowledge it in your papers by citing the following references:
 
-* `S. Riggi et al., "Combined spectrum-Xmax fit with a likelihood approach", Pierre Auger Internal GAP Note 2011-101 (2011)
-* `S. Riggi, "Measurement of the cosmic rays mass composition using hybrid data of the Pierre Auger Observatory", PhD thesis, University of Catania (Italy) (2010)`
+* `S. Riggi et al., "On the unfolding of the inclined energy spectrum", Pierre Auger Internal GAP Note 2011-140 (2011)
+* `The Pierre Auger Collaboration, "Measurement of the cosmic ray spectrum above 4 × 10^18 eV using inclined events detected with the Pierre Auger Observatory", JCAP 08 (2015) 049`
 
 or consider including me (`S. Riggi, INAF - Osservatorio Astrofisico di Catania, Via S. Sofia 78, I-95123, Catania, Italy`)
 as a co-author on your publications.
 
 ## **Status**
-This software is currently not actively maintained.
+This software is currently not actively maintained. At present only the forward-folder method is included. 
+Gold and Bayes unfolders to be included.
 
 ## **Installation**  
 
